@@ -6,7 +6,3 @@ Optical Character Recognition Applied to Ancient Egyptian Hieratic". Please note
 
 A brief description of each of the files included in this repository will follow. The files of code are presented in order of when they would be used. In the future, these will be combined.
 
-- "Code":
-  - "Combine and Flag Script.ipynb": This takes an input of many individual folders of unlabled signs, collects them, and then allows a user to select lables (tags) for them. The output is a singal folder of all of the labeled signs.
-  - "Categorizing Script.ipynb": This takes an input of a folder with all of the individual labled data set signs and outputs a new folder with the signs categorized by sign.
-  - "Comparison Script Variations.ipynb": This mess of a file includes a lot of different sections. The first part takes an input of a file of the whole data set, labled. It extracts sign codes and aspect ratios of each of the signs, saving the data in a .csv file. The next part resizes the signs and saves the pixel values (black or white) in a .csv file. Then, the next part allows a new image to be put in, calculating its aspect ratio, filtering the data set by aspect ratio, filtering the data set by FFT, and using a very simple pixel-to-pixel comparison method to compare the image to the data set. The top results can be visualized. After this, the code allows one to do this with multiple images.
