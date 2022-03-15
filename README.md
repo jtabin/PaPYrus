@@ -1,4 +1,4 @@
-# PapPYrus
+# PaPYrus
 This is the first version of a program designed to perform Optical Character Recognition on ancient Egyptian hieratic using Image Deformation Models. This code should allow the identification of individual unknown hieratic symbols, as well as facilitate large-scale comparisons of signs from across the textual corpus. For more information about this project, one is encouraged to read Julius Tabin's University of Chicago NELC undergraduate thesis: "From Papyrus to Pixels:
 Optical Character Recognition Applied to Ancient Egyptian Hieratic". Please note that, at this time, the code is not in an ideal format for public use. If someone is interested in using the code before I am able to update it, feel free to. However, be aware that the code may be messy in places, have redundant elements, or be unintelligible to anyone but myself. Until the update, I am happy to answer any questions one might have; just email jtabin1@gmail.com.
 
